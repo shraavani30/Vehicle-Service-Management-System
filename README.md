@@ -4,7 +4,7 @@
 
 ---
 
-## 🔧 Key Features
+## Key Features
 
 - Multi-role access: Admin, Customer, Mechanic  
 - Service request and booking system  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Framework:** Django (Python)  
 - **Frontend:** HTML, CSS (with Django templates)  
@@ -24,6 +24,6 @@
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 VSMS aims to replace traditional, manual vehicle service tracking with a centralized and efficient solution that improves communication, eliminates data
